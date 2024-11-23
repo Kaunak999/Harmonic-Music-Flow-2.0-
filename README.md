@@ -24,4 +24,3 @@ HarmonicFlow is an innovative Augmented Reality (AR) music creation app designed
    ./gradlew build
    ```
 
-## Contribution
